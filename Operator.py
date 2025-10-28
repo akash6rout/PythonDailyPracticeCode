@@ -18,4 +18,3 @@
 # else:
 #     print("model not available.")
 
-print("OKAY")
