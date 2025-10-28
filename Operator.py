@@ -10,10 +10,12 @@
 # print("Raider" in bikes)
 # print("Apache" not in bikes)
 
-models = ["Apache","Ntorq","Raider","Jupiter"]
-customer_choice= input("Enter Your Model.")
+# models = ["Apache","Ntorq","Raider","Jupiter"]
+# customer_choice= input("Enter Your Model.")
 
-if customer_choice in models:
-    print('Model available in stock!')
-else:
-    print("model not available.")
+# if customer_choice in models:
+#     print('Model available in stock!')
+# else:
+#     print("model not available.")
+
+print("OKAY")
